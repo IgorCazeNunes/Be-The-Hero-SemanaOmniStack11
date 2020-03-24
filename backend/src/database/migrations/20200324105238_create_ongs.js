@@ -1,5 +1,4 @@
-
-exports.up = function(knex) {
+exports.up = function (knex) {
     return knex.schema.createTable('ongs', function (table) {
         table.string('id').primary();
         table.string('name').notNullable();
@@ -10,6 +9,6 @@ exports.up = function(knex) {
     })
 };
 
-exports.down = function(knex) {
+exports.down = function (knex) {
     knex.schema.dropTable('ongs');
 };
