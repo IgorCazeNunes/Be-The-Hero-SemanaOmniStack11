@@ -1,4 +1,4 @@
-# Be A Hero
+# Be The Hero
 ### Projeto desenvolvido durante a semana Omnistack 11
 
 ## Página principal
