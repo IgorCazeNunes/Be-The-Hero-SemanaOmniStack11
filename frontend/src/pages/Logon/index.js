@@ -20,7 +20,7 @@ export default function Logon() {
 
                     <button type="submit" className="button">Entrar</button>
 
-                    <Link to="/register">
+                    <Link className="back-link" to="/register">
                         <FiLogIn size={16} color="#E02041" />
                         Não tenho cadaastro.
                     </Link>
