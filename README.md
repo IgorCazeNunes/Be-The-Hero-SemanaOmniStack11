@@ -1,18 +1,20 @@
 # Be The Hero
 ### Project developed at Omnistack Week 11
-![OmniStack Week 11](.github/Semana-OmniStack-11.png)
+<img src=".github/Semana-OmniStack-11.png" alt="OmniStack Week 11" width="600"/>
 
-## Technologies
+# Technologies
 This project was developed with the following technologies:
 * [Node.js](https://nodejs.org/)
 * [React](https://reactjs.org/)
-* [React Native](https://reactnative.dev/)>
+* [React Native](https://reactnative.dev/)
 
-## Web Layout 
-#### Home Page
-![Home Page](.github/Be-The-Hero-Home.png)
 
-#### Register Page
-![Register Page](.github/Be-The-Hero-Cadastro.png)
+# Web Layout 
+### Home Page
+<img src=".github/Be-The-Hero-Home.png" alt="Home Page" width="600"/>
 
-## Mobile Layout
+### Register Page
+<img src=".github/Be-The-Hero-Cadastro.png" alt="Register Page" width="600"/>
+
+
+# Mobile Layout
