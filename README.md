@@ -1,4 +1,4 @@
-# Be The Hero
+# <img src=".github/logo.png" alt="Logo Be The Hero" width="200"/>
 ### Project developed at Omnistack Week 11
 <img src=".github/Semana-OmniStack-11.png" alt="OmniStack Week 11" width="600"/>
 
