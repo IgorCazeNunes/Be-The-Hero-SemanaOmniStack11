@@ -18,3 +18,7 @@ This project was developed with the following technologies:
 
 
 # Mobile Layout
+
+| Splash Page | Incidents Page | Detail Page |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="300" alt="Mobile Splash Page" src=".github/Be-The-Hero-Mobile-Splash.png"> | <img width="300" alt="Mobile Splash Page" src=".github/Be-The-Hero-Mobile-Incidents.png"> | <img width="300" alt="Mobile Splash Page" src=".github/Be-The-Hero-Mobile-Incidents-Detail.png"> |
